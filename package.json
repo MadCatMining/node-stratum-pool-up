@@ -12,12 +12,12 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/zone117x/node-stratum-pool",
+    "homepage": "https://github.com/MadCatMining/node-stratum-pool-up",
     "bugs": {
-        "url": "https://github.com/zone117x/node-stratum-pool/issues"
+        "url": "https://github.com/MadCatMining/node-stratum-pool-up/issues"
     },
     "license": "GPL-2.0",
-    "author": "Matthew Little",
+    "author": "Matthew Little, MadCatMining",
     "contributors": [
         "vekexasia",
         "TheSeven"
