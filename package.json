@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-stratum-pool.git"
+        "url": "https://github.com/MadCatMining/node-stratum-pool-up.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/zone117x/node-multi-hashing.git",
+        "multi-hashing": "https://github.com/MadCatMining/node-multi-hashing-up.git",
         "bignum": "0.13.1",
         "base58-native": "*",
         "async": "*"
